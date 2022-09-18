@@ -1,0 +1,3 @@
+This is the file for multiplayer mode chess game. In order to execute this file, you must run the engine.py file. 
+It will import 2 other python files named board.py and piece.py from the imports folder.
+The resources folder has pictures for chess piece printing.
